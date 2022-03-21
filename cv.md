@@ -1,6 +1,7 @@
-#Daria Koleda#
+Daria Koleda
+---
 
-##Frontend developer##
+Frontend developer
 ---
 
 **Education**
