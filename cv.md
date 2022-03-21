@@ -1,19 +1,23 @@
-#Daria Koleda
+#Daria Koleda#
 
-====
+##Frontend developer##
+---
+
 **Education**
 
 RSSU | Faculty of Humanities | Department of Theology
 
 Sololearn PHP course
 
-====
+
 English level - B1 (lessons at school and university)
-====
+
 **Skills**
+
+
 first level HTML, CSS, PHP, JS, Git
 
-Age: 22
+**Age:** 22
 
 **About me**
 
@@ -27,8 +31,8 @@ When I find the right solution of the task I feel real pleasure
 I can learn fast and work in a team
 Thanks for attention!
 
-====
-code example:
+
+*code example:*
 
 ```
 function multiply(a,b){
@@ -36,6 +40,8 @@ function multiply(a,b){
 }
 ```
 
-====
+**My contacts:**
+
 email: easter.lebanon@yandex.ru
+
 discord name: dariacold(Darkol1) (ID 710845522369314848)
