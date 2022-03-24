@@ -7,32 +7,45 @@ body {
   font-size: 18px;
 }
 
+.cv{
+  float: left;
+  margin-left: 40px;
+}
+
 .cv-title {
   font-size: 20px;
   text-align: center;
   color: #000000;
 }
 
+.cvv-title{
+  font-size: 20px;
+  text-align: left;
+  color: #000000;
+  margin-left: 20%;
+}
+
+.cv-photo{
+  float: left;
+  display: block;
+  width: 350px;
+  height: 540px;
+  margin: 0 auto;
+}
+
 .cv-list{
   padding-left: 0;
   list-style-position: inside;
   font-size: 14px;
-  text-align: center;
+  text-align: left;
 }
 
 .cv-text{
+  text-align: left;
   font-size: 14px;
-  text-align: center;
 }
 
-.cv-subtitle{
-  font-size: 20px;
-  color: #000000;
-  font-style: italic;
-  text-align: center;
-}
-
-.cv-code{
-  font-size: 12px;
-  text-align: center;
+.cv-othertext{
+  text-align: left;
+  font-size: 14px;
 }
