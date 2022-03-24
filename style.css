@@ -1,0 +1,51 @@
+body {
+  margin: 40;
+
+  background: url("img/background.jpg");
+  font-family: Inter;
+  line-height: 1.5;
+  font-size: 18px;
+}
+
+.cv{
+  float: left;
+  margin-left: 40px;
+}
+
+.cv-title {
+  font-size: 20px;
+  text-align: center;
+  color: #000000;
+}
+
+.cvv-title{
+  font-size: 20px;
+  text-align: left;
+  color: #000000;
+  margin-left: 20%;
+}
+
+.cv-photo{
+  float: left;
+  display: block;
+  width: 350px;
+  height: 540px;
+  margin: 0 auto;
+}
+
+.cv-list{
+  padding-left: 0;
+  list-style-position: inside;
+  font-size: 14px;
+  text-align: left;
+}
+
+.cv-text{
+  text-align: left;
+  font-size: 14px;
+}
+
+.cv-othertext{
+  text-align: left;
+  font-size: 14px;
+}
